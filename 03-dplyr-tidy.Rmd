@@ -298,6 +298,7 @@ For convenience, `count()` provides the `sort` argument to get results in decrea
 > 3. What was the largest household interviewed in each month?
 >
 
+## NOTE: pivot_wide and pivot_narrow have replace gather and spread 
 
 ## Reshaping with gather and spread
 
